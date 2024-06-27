@@ -64,7 +64,7 @@ header nav ul li a:hover {
 }
 
 main {
-    background-image: url('../img/fondo\ index.PNG');
+    background-image: url('../img/fondo/index.PNG');
     background-size: cover;
     background-attachment: fixed;
     padding-bottom: 30px;
