@@ -17,10 +17,11 @@ li {
 header {
     background-color:#b37d3b;
     background-size: cover;
-    display: flex;
+    display: grid;
     flex-direction: column;
     position: fixed;
     width: 100%;
+    z-index: 2;
 }
 
 header nav {
